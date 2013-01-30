@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repository/calendarserver/!svn/ver/10302/PyKerberos/trunk
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repository/calendarserver/!svn/ver/17/PyKerberos/trunk/LICENSE
+END
+test.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/calendarserver/!svn/ver/10302/PyKerberos/trunk/test.py
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/calendarserver/!svn/ver/10302/PyKerberos/trunk/setup.py
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repository/calendarserver/!svn/ver/10302/PyKerberos/trunk/README.txt
+END

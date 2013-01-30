@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repository/calendarserver/!svn/ver/10302/PyKerberos/trunk/src
+END
+kerberosbasic.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/calendarserver/!svn/ver/10302/PyKerberos/trunk/src/kerberosbasic.c
+END
+kerberosgss.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/calendarserver/!svn/ver/10302/PyKerberos/trunk/src/kerberosgss.h
+END
+kerberosbasic.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repository/calendarserver/!svn/ver/10302/PyKerberos/trunk/src/kerberosbasic.h
+END
+kerberospw.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/calendarserver/!svn/ver/2447/PyKerberos/trunk/src/kerberospw.c
+END
+base64.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/calendarserver/!svn/ver/10302/PyKerberos/trunk/src/base64.c
+END
+kerberospw.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/calendarserver/!svn/ver/2325/PyKerberos/trunk/src/kerberospw.h
+END
+base64.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repository/calendarserver/!svn/ver/10302/PyKerberos/trunk/src/base64.h
+END
+kerberosgss.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/calendarserver/!svn/ver/10302/PyKerberos/trunk/src/kerberosgss.c
+END
+kerberos.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repository/calendarserver/!svn/ver/10302/PyKerberos/trunk/src/kerberos.c
+END
