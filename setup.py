@@ -1,5 +1,5 @@
 ##
-# Copyright (c) 2006-2013 Apple Inc. All rights reserved.
+# Copyright (c) 2006-2008 Apple Inc. All rights reserved.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -28,9 +28,10 @@ Kerberos authentication based on <http://www.ietf.org/rfc/rfc4559.txt>.
 
 setup (
     name = "kerberos",
-    version = "1.1.1",
+    version = "1.1.2+DSE1",
     description = "Kerberos high-level interface",
     long_description=long_description,
+    license="ASL 2.0",
     classifiers = [
         "License :: OSI Approved :: Apache Software License",
         "Programming Language :: Python :: 2",
