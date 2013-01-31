@@ -1,8 +1,8 @@
-kerberos (1.1.2~SNAPSHOT-1) unstable; urgency=low
+kerberos (1.1.2+DSE1-1) unstable; urgency=low
 
-  * develop working deb package metadata
+  * Fix SASL QOP negotiation (katriana@datastax.com)
 
- -- Ben Gamble <bgamble@datastax.com>  Tue, 06 Nov 2012 19:48:39 +0000
+ -- Ben Gamble <bgamble@datastax.com>  Thu, 31 Jan 2013 11:26:46 +0000
 
 kerberos (1.1.1-1) unstable; urgency=low
 
