@@ -143,6 +143,14 @@ def authGSSClientResponse(context):
     @return: a string containing the base64-encoded client data to be sent to the server.
     """
 
+def authGSSClientResponseConf(context):
+    """
+    Returns 1 if confidentiality was enabled in the previously unwrapped buffer.  0 otherwise.
+
+    @param context: the context object returned from authGSSClientInit.
+    @return: an integer representing the confidentiality of the previously unwrapped buffer.
+    """
+
 def authGSSClientUserName(context):
     """
     Get the user name of the principal authenticated via the now complete GSSAPI client-side operations.
