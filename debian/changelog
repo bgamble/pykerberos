@@ -1,0 +1,11 @@
+kerberos (1.1.2~SNAPSHOT-1) unstable; urgency=low
+
+  * develop working deb package metadata
+
+ -- Ben Gamble <bgamble@datastax.com>  Tue, 06 Nov 2012 19:48:39 +0000
+
+kerberos (1.1.1-1) unstable; urgency=low
+
+  * source package automatically created by stdeb 0.6.0+git
+
+ -- Ben Gamble <bgamble@datastax.com>  Tue, 06 Nov 2012 19:48:39 +0000

@@ -1,0 +1,84 @@
+10
+
+dir
+0
+http://svn.calendarserver.org/repository/calendarserver/PyKerberos/trunk/debian
+http://svn.calendarserver.org/repository/calendarserver
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e27351fd-9f3e-4f54-a53b-843176b1656c
+
+changelog
+file
+
+
+
+add
+
+copyright
+file
+
+
+
+add
+
+docs
+file
+
+
+
+add
+
+rules
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+examples
+file
+
+
+
+add
+
+control
+file
+
+
+
+add
+
+compat
+file
+
+
+
+add
+

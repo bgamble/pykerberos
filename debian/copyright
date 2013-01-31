@@ -1,0 +1,17 @@
+This package was debianized by Ben Gamble <bgamble@datastax.com> on
+Tue, 06 Nov 2012 19:48:39 +0000.
+
+It was downloaded from http://svn.calendarserver.org/repository/calendarserver/PyKerberos/
+
+Upstream Author: Cyrus Daboo <cdaboo@apple.com>
+
+Copyright: 2006 Apple Computer, Inc. All rights reserved.
+
+License:
+                                 Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
+
+On Debian GNU/Linux systems, the complete text of the Apache License Version
+2.0 can be found in `/usr/share/common-licenses/Apache-2.0'.
+
